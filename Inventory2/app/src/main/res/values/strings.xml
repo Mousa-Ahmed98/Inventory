@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="Enter">دخول</string>
+    <string name="password">ادخل كلمة المرور</string>
+    <string name="Invalid_password">كلمة مرور خاطئة!</string>
+    <string name="fill_data">ادخل البيانات و اختر القسم</string>
+    <string name="good_name">الإسم:</string>
+    <string name="good_quantity">الكمية:</string>
+    <string name="good_cost">سعر الشراء:</string>
+    <string name="good_price">سعر البيع:</string>
+    <string name="good_type">القسم:</string>
+    <string name="insert">إضافة</string>
+    <string name="choose_type">اختر القسم</string>
+    <string name="update_data">تعديل البيانات</string>
+    <string name="insert_data">أضافة بيانات</string>
+    <string name="oil">زيت</string>
+    <string name="access">اكسسوار</string>
+    <string name="cotch">كوتش</string>
+    <string name="pieces">قطع غيار</string>
+    <string name="dialog_message">ادخل عدد الوحدات المراد بيعها من </string>
+    <string name="sell">بيع</string>
+    <string name="cancel_selling">إالغاء</string>
+    <string name="value">القيمة</string>
+    <string name="operation_done">تمت العملية</string>
+
+    <string name="not_enough_quantity">لا يوجد كمية كافية</string>
+
+
+
+    <string-array name="shop_contents">
+        <item>اكسسوار</item>
+        <item>كوتش</item>
+        <item>زيت</item>
+        <item>قطع غيار</item>
+    </string-array>
+
+    <string-array name="shop_contents_for_inserting">
+        <item>اختر القسم</item>
+        <item>اكسسوار</item>
+        <item>كوتش</item>
+        <item>زيت</item>
+        <item>قطع غيار</item>
+    </string-array>
+
+
+</resources>
